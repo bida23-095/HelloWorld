@@ -1,4 +1,12 @@
 H1
 {
-  color:green;
+  color:blue;
+}
+body
+{
+  background:black;
+}
+p
+{
+  text-align:right;
 }
